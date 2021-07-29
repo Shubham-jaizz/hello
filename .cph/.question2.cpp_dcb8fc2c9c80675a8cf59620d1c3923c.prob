@@ -1,0 +1,1 @@
+{"name":"Local: question2","url":"c:\\MinGW\\bin\\hello\\question2.cpp","tests":[{"id":1623739393913,"input":"5\n1 2 3 4 5\n6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\MinGW\\bin\\hello\\question2.cpp","group":"local","local":true}
